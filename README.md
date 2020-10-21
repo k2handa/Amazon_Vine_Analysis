@@ -5,7 +5,7 @@ The purpose of the project is to pick one of the S3 datasets and use PySpark to 
 
 ## Results
 Vine Summary Dataframe: 
-![Vine_Summary](https://github.com/k2handa/Amazon_Vine_Analysis/blob/main/Image%202020-10-19%20at%205.55%20PM.png?raw=true)
+![Vine_Summary](https://github.com/k2handa/Amazon_Vine_Analysis/blob/main/Image%202020-10-21%20at%202.03%20PM.png)
 
 There were 4 paid reviews and 1064 nonpaid reviews. 
 
