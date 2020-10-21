@@ -7,13 +7,13 @@ The purpose of the project is to pick one of the S3 datasets and use PySpark to 
 Vine Summary Dataframe: 
 ![Vine_Summary](https://github.com/k2handa/Amazon_Vine_Analysis/blob/main/Image%202020-10-19%20at%205.55%20PM.png?raw=true)
 
-There were 265 paid reviews and 26,789 nonpaid reviews. 
+There were 4 paid reviews and 1064 nonpaid reviews. 
 
-There were 107 paid reviews were 5 stars and 12,057 unpaid reviews were 5 stars.
+There were 1 paid reviews were 5 stars and 527 unpaid reviews were 5 stars.
 
-There were 40% of paid reviews were 5 stars and 45% of unpaid reviews were 5 stars.
+There were 25% of paid reviews were 5 stars and 50% of unpaid reviews were 5 stars.
 
 
 ## Summary
-There was no positivity bias for reviews in the Vine program. The percentage of unpaid 5 stars reviews was 5% more than paid 5 stars reviews.
+There was no positivity bias for reviews in the Vine program. The percentage of unpaid 5 stars reviews was 25% more than paid 5 stars reviews.
 
